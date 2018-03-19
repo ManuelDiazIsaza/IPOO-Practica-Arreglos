@@ -43,6 +43,7 @@ void Vector::imprimirNotas(){
 	}
 }
 
+
 double Vector::promedioNotas()
 {
     double acum=0;

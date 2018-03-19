@@ -8,6 +8,7 @@
   Licencia: GPL
 */
 
+
 // Clase: Vector
 // Responsabilidad: Manejo de Vector
 // Colaboración: ninguna
